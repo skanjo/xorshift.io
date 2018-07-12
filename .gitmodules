@@ -1,0 +1,3 @@
+[submodule "themes/xorshift.io-theme"]
+	path = themes/xorshift.io-theme
+	url = git@github.com:skanjo/xorshift.io-theme.git
