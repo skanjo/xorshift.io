@@ -17,7 +17,7 @@ enableMissingTranslationPlaceholders = false
 # title = "Documentation for Hugo docDock"
 # weight = 1
 # languageName = "English"
-# 
+#
 # [Languages.fr]
 # title = "Documentation du thème docDock"
 # weight = 2
@@ -60,8 +60,3 @@ name = "<i class='fa fa-bookmark'></i> <label>Hugo Documentation</label>"
 identifier = "hugodoc"
 url = "https://gohugo.io/"
 weight = 20
-
-[[menu.shortcuts]]
-name = "<i class='fa fa-bullhorn'></i> <label>Credits</label>"
-url = "/credits"
-weight = 30
